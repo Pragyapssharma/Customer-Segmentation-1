@@ -4,7 +4,7 @@ This project applies **K-Means clustering** to segment customers based on their 
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
@@ -30,7 +30,7 @@ Customer segmentation helps businesses understand their customer base by groupin
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python 3.x
 - pandas
@@ -40,7 +40,7 @@ Customer segmentation helps businesses understand their customer base by groupin
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ### **Data Preprocessing**:
    - Select relevant features: `total_spend`, `num_orders`
@@ -65,7 +65,7 @@ Customer segmentation helps businesses understand their customer base by groupin
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone the Repository
 
@@ -101,7 +101,7 @@ This will:
 - Descriptive statistics for each cluster
 
 
-## 📈 Visualizations
+## Visualizations
 - Elbow Curve to determine the number of clusters
 
 ![Customer Segmentation](images/cust1_1.png)
@@ -111,7 +111,7 @@ This will:
 ![Customer Segmentation](images/cust1_2.png)
 
 
-## 📜 License
+## License
 This project is open-source and free to use for learning and personal development.
 
 
