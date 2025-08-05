@@ -69,8 +69,8 @@ Customer segmentation helps businesses understand their customer base by groupin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/customer-segmentation.git
-cd customer-segmentation
+git clone https://github.com/Pragyapssharma/Customer-Segmentation-1.git
+cd Customer-Segmentation-1
 ```
 
 ### 2. Install Dependencies
