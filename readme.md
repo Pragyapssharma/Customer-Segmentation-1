@@ -18,7 +18,7 @@ This project applies **K-Means clustering** to segment customers based on their 
 
 ---
 
-## 🧩 Overview
+## Overview
 
 Customer segmentation helps businesses understand their customer base by grouping similar customers together. This script:
 
@@ -93,7 +93,7 @@ This will:
 - Output cluster statistics
 - Show a scatter plot of clustered customers
 
-## 📊 Results
+## Results
 - The optimal number of clusters was determined to be 3
 - Each customer is labeled with a cluster ID
 - Summary statistics are shown per cluster
