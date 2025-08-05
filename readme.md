@@ -10,7 +10,6 @@ This project applies **K-Means clustering** to segment customers based on their 
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
-- [Usage](#run)
 - [Results](#results)
 - [Visualizations](#visualizations)
 - [License](#license)
